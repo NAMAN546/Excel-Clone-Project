@@ -13,4 +13,4 @@ Features Implemented :
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Excel-Clone](https://naman546.github.io/excelclone/)                                                                  | [Live Demo]             |
+| 01  | [Excel-Clone](https://naman546.github.io/MS-Excel-Clone/)                                                                  | [Live Demo]             |
