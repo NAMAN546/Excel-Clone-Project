@@ -74,7 +74,7 @@ body{
 }
 
 .formula-bar-cont{
-    height: 1.5rem;
+    height: 2rem;
     background-color:  rgb(221, 221, 218);
     padding-left: 1rem;
     display: flex;
@@ -89,6 +89,7 @@ body{
     outline: none;
     height: 60%;
     font-size: 0.75rem;
+  outline-color: #107c41;
 }
 .address-bar{
     width: 3rem;
