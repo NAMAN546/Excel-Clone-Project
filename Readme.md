@@ -14,4 +14,4 @@ Features Implemented :
 
 |  #  |  Demo                                                                                                                    | Project                                                                       |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Live Demo - Click Here](https://cryptobase-846bc.web.app)                                                                  | [Crypto-Application]             |
+| 01  | [Live Demo - Click Here](https://naman546.github.io/MS-Excel-Clone/)                                                                  | [MY-EXCEL]             |
