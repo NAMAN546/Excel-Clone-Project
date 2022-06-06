@@ -11,6 +11,7 @@ Features Implemented :
 6. Can Download as well as upload sheets.
 
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+
+|  #  |  Demo                                                                                                                    | Project                                                                       |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Excel-Clone](https://naman546.github.io/MS-Excel-Clone/)                                                                  | [Live Demo]             |
+| 01  | [Live Demo - Click Here](https://cryptobase-846bc.web.app)                                                                  | [Crypto-Application]             |
